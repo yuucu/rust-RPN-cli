@@ -1,5 +1,5 @@
 [package]
-name = "calc-cli"
+name = "calc-rpn-cli"
 version = "0.1.0"
 authors = ["higuchi-yuya-ab <higuchi_yuya@applibot.co.jp>"]
 edition = "2018"
